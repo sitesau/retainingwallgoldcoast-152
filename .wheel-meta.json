@@ -1,0 +1,22 @@
+{
+  "wheel_id": 482,
+  "structure": "umbrella",
+  "slug": "retainingwallgoldcoast-152",
+  "project": "retaining-wall-builders-gold-coast-6b8431e8ccfb661443f113f6444e",
+  "parent_t1_ref": "retainingwallgoldcoast-008",
+  "node_role": "buffer",
+  "money_target": "retainingwallgoldcoast.com.au",
+  "primary_kw": "retaining wall builders gold coast",
+  "intended_url": "https://sitesau.github.io/retainingwallgoldcoast-152/",
+  "tier": "T2",
+  "writeback_nonce": "8f6311cb9eb9675f",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/retainingwallgoldcoast-008/retaining-wall-builders-gold-coast.html",
+      "anchor": "Retaining Wall Builders Gold Coast: A 2026 Site Checklist",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
